@@ -1,0 +1,114 @@
+<html>
+<head><title>Laurence Svekis Resume</title>
+<style>
+.footer{
+text-align:center;
+padding:10px;
+background-color:#ddd;
+}
+table{
+width:100%;
+border:1px solid black;
+}
+dt{
+font-weight:bold;
+font-size:1.2em;
+}
+section{
+padding:10px;
+border:1px solid black;
+margin:10px;
+}
+</style>
+</head>
+<body>
+<header class="header"><h1>Laurence Svekis
+Resume</h1></header>
+<nav class="navbar">
+<ul>
+<li><a href="#Exp">Experience</a></li>
+<li><a href="#Edu">Education</a></li>
+<li><a href="#Int">Interests</a></li>
+<li><a href="#Ski">Skills</a></li>
+<li><a href="#Con">Contact</a></li>
+</ul>
+</nav>
+<article><p>
+Welcome to my website, hope you enjoy it.
+</p>
+<hr>
+<p>My name is Laurence Svekis</p>
+<img
+src="https://media-exp1.licdn.com/dms/image/C4E03AQEAtQ9VQ0Z7rA/
+profile-displayphoto-shrink_200_200/0/1632867219913?e=1639612800
+&v=beta&t=_B4leYocoUhtPWxzpUx5rcrhOTU4suzGe5CuVXR-IE8">
+</article>
+<section id="Exp">
+<h2>Expereince</h2>
+<table>
+<colgroup>
+<col span="1" style="background-color: #ddd;">
+</colgroup>
+<tr><th>Company</th>
+<th>Details</th>
+<th>Years</th>
+</tr>
+<tr>
+<td>Discoveryvip</td>
+<td>Created Courses</td>
+<td>2002 - 2021</td>
+</tr>
+<tr>
+<td>Basescripts</td>
+<td>Online Elearning</td>
+<td>2010 - 2015</td>
+</tr>
+<tr>
+<td>Discoveryvip</td>
+<td>Created Courses</td>
+<td>2002 - 2021</td>
+</tr>
+</table>
+</section>
+<section id="Edu">
+<h2>Education</h2>
+<dl>
+<dt>My University</dt>
+<dd>MBA</dd>
+<dt>Degree</dt>
+<dd>Computer Science</dd>
+</dl>
+</section>
+<section id="Int">
+<h2>Interests</h2>
+<ul>
+<li>Computers</li>
+<li>Skiing</li>
+<li>Swimming</li>
+</ul>
+</section>
+<section id="Ski">
+<h2>Skills</h2>
+<ol>
+<li>CSS</li>
+<li>HTML</li>
+<li>JavaScript
+<ul>
+<li>DOM</li>
+<li>Node</li>
+<li>Google Apps Script</li>
+</ul>
+</li>
+</ol>
+</section>
+<section id="Con">
+<h2>Contact Me</h2>
+<p>
+Contact me at my email <a
+href="mailto:laurenceSvekis@myemail.com">My Email Address</a>
+</p>
+</section>
+<footer class="footer">Copyright (c) 2022 Laurence Svekis
+Content please contact me to find out more.</footer>
+</body>
+</html>
